@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874241334356",
+    "project_id": "messagingapp-25875",
+    "storage_bucket": "messagingapp-25875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874241334356:android:e4801425410b31029921c1",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874241334356-7gmjurt358g2eqvhcoivr14ctu9jid16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger_app",
+            "certificate_hash": "0a2719354dec377b655d7eea0e61e36bb9409d14"
+          }
+        },
+        {
+          "client_id": "874241334356-ivt0me22hi6cqd6dfbge4tmsdkdkscv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqgctWMmh7_tG0CD39CFWDkVzZiCE5Zpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874241334356-ivt0me22hi6cqd6dfbge4tmsdkdkscv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
